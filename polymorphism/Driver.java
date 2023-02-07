@@ -28,9 +28,7 @@ public class Driver {
 		print(p2);
 		print(sc);
 		
-//		double d = 10.334;
 //		
-//		int i = (int)d;
 	}
 
 }
